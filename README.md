@@ -9,7 +9,6 @@ Este é um projeto simples de Jogo da Forca desenvolvido em C# com Windows Forms
 - ⌨️ Teclado virtual com botões de A a Z
 - 😬 Contador de tentativas restantes
 - 🧠 Dicas com o tema da palavra
-- 🖼️ Ilustração visual da forca (opcional)
 - 🎯 Verificação automática de vitória ou derrota
 
 ## 📸 Capturas de Tela
