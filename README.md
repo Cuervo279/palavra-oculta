@@ -35,7 +35,7 @@ Este é um projeto simples de Jogo da Forca desenvolvido em C# com Windows Forms
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Cuervo279/Jogo-da-Forca
+git clone https://github.com/Cuervo279/palavra-oculta.git
 Abra o projeto no Visual Studio 2022 ou superior
 ```
 Compile e execute (F5)
