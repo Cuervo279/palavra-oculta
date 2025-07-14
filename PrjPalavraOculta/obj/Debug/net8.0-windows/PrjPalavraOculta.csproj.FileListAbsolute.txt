@@ -1,0 +1,17 @@
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\bin\Debug\net8.0-windows\PrjPalavraOculta.exe
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\bin\Debug\net8.0-windows\PrjPalavraOculta.deps.json
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\bin\Debug\net8.0-windows\PrjPalavraOculta.runtimeconfig.json
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\bin\Debug\net8.0-windows\PrjPalavraOculta.dll
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\bin\Debug\net8.0-windows\PrjPalavraOculta.pdb
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.frmPalavraOculta.resources
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.csproj.GenerateResource.cache
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.AssemblyInfoInputs.cache
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.AssemblyInfo.cs
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.csproj.CoreCompileInputs.cache
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.dll
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\refint\PrjPalavraOculta.dll
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.pdb
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.genruntimeconfig.cache
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\ref\PrjPalavraOculta.dll
+C:\Programas\Projetos\Vanilla\PrjPalavraOculta\PrjPalavraOculta\PrjPalavraOculta\obj\Debug\net8.0-windows\PrjPalavraOculta.Properties.Resources.resources
